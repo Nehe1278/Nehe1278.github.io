@@ -1,0 +1,445 @@
+Last login: Thu Sep  5 11:41:30 on ttys001
+1003223@1003223-student-HXJKFBRB265D ~ % cd Documents        
+1003223@1003223-student-HXJKFBRB265D Documents % ls
+ls: .: Operation not permitted
+1003223@1003223-student-HXJKFBRB265D Documents % ls
+ls: .: Operation not permitted
+1003223@1003223-student-HXJKFBRB265D Documents % cd
+1003223@1003223-student-HXJKFBRB265D ~ % ls
+Desktop				Photo on 4-29-24 at 1.07 PM.jpg
+Documents			Photo on 4-29-24 at 1.10 PM.jpg
+Downloads			Pictures
+Library				Public
+Movies				js-code basics
+Music
+1003223@1003223-student-HXJKFBRB265D ~ % cd Documents
+1003223@1003223-student-HXJKFBRB265D Documents % ls
+ls: .: Operation not permitted
+1003223@1003223-student-HXJKFBRB265D Documents % cd
+1003223@1003223-student-HXJKFBRB265D ~ % cd Desktop
+1003223@1003223-student-HXJKFBRB265D Desktop % cd
+1003223@1003223-student-HXJKFBRB265D ~ % cd
+1003223@1003223-student-HXJKFBRB265D ~ % ls
+Desktop				Photo on 4-29-24 at 1.07 PM.jpg
+Documents			Photo on 4-29-24 at 1.10 PM.jpg
+Downloads			Pictures
+Library				Public
+Movies				js-code basics
+Music
+1003223@1003223-student-HXJKFBRB265D ~ % cd Downloads
+1003223@1003223-student-HXJKFBRB265D Downloads % ls
+1712928735.6903691.jpg
+2021-22-local-and-regional-schools (3).xlsx
+5BA64E39-8C11-4510-AE23-17ACEBA34EBE.JPG
+725EBCB8-2D22-4F72-95C2-E3DE672764AF.JPG
+79DF6C8F-CB2F-45CD-A351-8753EB1F4852.jpeg
+87BBD529-A4F8-491C-889E-8A6235346C98.jpeg
+AP Macro 2016.pdf
+AP Macro 2017.pdf
+AP Micro 2017.pdf
+AP Micro 2018.pdf
+AP 宏观经济学 2019.pdf
+AP 微观经济学 2019.pdf
+Ambassador Academy Learning Modules Instructions (1).pdf
+AvocadoResized.jpg
+Barron's AP Econ Cover.png
+BluePigBankresized.jpg
+Book Work-1.pdf
+C7A0B9F8-E82E-4248-920D-867CF5129BA8.JPG
+CamScanner 02-19-2024 23.09.pdf
+Chatbot Lab _ CodeHS.html
+Chatbot Lab _ CodeHS_files
+Chatbot.java
+ChatbotRunner.java
+ChillAvocadoOnBed.jpg
+Copy of Lord of the Files Tracker (1).pptx
+Copy of Lord of the Files Tracker.pptx
+Day 1 input.txt
+E0A85FDF-6439-467D-826E-880C37126D51.jpeg
+Exponential Functions Word Problems 1 (1).docx
+Exponential Functions Word Problems 1.docx
+IMG_0619.HEIC
+IMG_0620.HEIC
+IMG_0621.HEIC
+IMG_0707 2.HEIC
+IMG_0707.HEIC
+IMG_0964.HEIC
+IMG_0964.jpg
+IMG_0965 (1).jpg
+IMG_0965.HEIC
+IMG_0965.jpg
+IMG_1137.HEIC
+IMG_1680.jpeg
+IMG_6373.HEIC
+Jim Crow Letter.docx
+Kisat_princeton_0181D_14057 (1).pdf
+Kisat_princeton_0181D_14057.pdf
+Lesson 1 InverseFunctionsActivityDigitalandPrint-1.pdf
+MyProgram.java
+NA Copy of Othello Seminar_INT.docx
+NA Copy of Othello Seminar_INT.pdf
+NA Quote Anylasis (1).docx
+NA Quote Anylasis (2).docx
+NA Quote Anylasis.docx
+Nehemiah Abraha Transcript (1).pdf
+Nehemiah Abraha Transcript (2).pdf
+Nehemiah Abraha Transcript (3).pdf
+Nehemiah Abraha Transcript Q3 (1).pdf
+Nehemiah Abraha Transcript Q3 (2).pdf
+Nehemiah Abraha Transcript Q3.pdf
+Nehemiah Abraha Transcript.pdf
+Nehemiah-Abraha-FlowCV-Resume-20240319.pdf
+Nehemiah-Abraha-FlowCV-Resume-20240611.pdf
+PictureLab
+PictureLab.zip
+PigBlue.jpg
+PokemonBATTLE.java
+Robotics - Robocode scoring.pdf
+Screen Recording 2024-04-01 at 5.00.14 PM.mov
+Screen Recording 2024-04-01 at 5.00.14 PM.zip
+Screenshot 2024-01-23 at 9.39.33 AM (1).png
+Screenshot 2024-01-23 at 9.39.33 AM.png
+Screenshot 2024-09-04 at 12.53.18 PM.png
+UglyAvocado.jpg
+VSCode-darwin-universal.zip
+Visual Studio Code.app
+beach_with_hidden_image.png
+bluePiggyBank.jpg
+cdls_quiz
+cdls_quiz.zip
+equations and inequalities review sheet.doc
+image-0f0f2834-0af5-4259-91ff-11a67e74d523.png
+images (1).jpg
+images.jpeg
+images.jpg
+images.png
+invite.ics
+study guide.pdf
+summer key 2019.pdf
+~$ Quote Anylasis (2).docx
+1003223@1003223-student-HXJKFBRB265D Downloads % ls
+1712928735.6903691.jpg
+2021-22-local-and-regional-schools (3).xlsx
+5BA64E39-8C11-4510-AE23-17ACEBA34EBE.JPG
+725EBCB8-2D22-4F72-95C2-E3DE672764AF.JPG
+79DF6C8F-CB2F-45CD-A351-8753EB1F4852.jpeg
+87BBD529-A4F8-491C-889E-8A6235346C98.jpeg
+AP Macro 2016.pdf
+AP Macro 2017.pdf
+AP Micro 2017.pdf
+AP Micro 2018.pdf
+AP 宏观经济学 2019.pdf
+AP 微观经济学 2019.pdf
+Ambassador Academy Learning Modules Instructions (1).pdf
+AvocadoResized.jpg
+Barron's AP Econ Cover.png
+BluePigBankresized.jpg
+Book Work-1.pdf
+C7A0B9F8-E82E-4248-920D-867CF5129BA8.JPG
+CamScanner 02-19-2024 23.09.pdf
+Chatbot Lab _ CodeHS.html
+Chatbot Lab _ CodeHS_files
+Chatbot.java
+ChatbotRunner.java
+ChillAvocadoOnBed.jpg
+Copy of Lord of the Files Tracker (1).pptx
+Copy of Lord of the Files Tracker.pptx
+Day 1 input.txt
+E0A85FDF-6439-467D-826E-880C37126D51.jpeg
+Exponential Functions Word Problems 1 (1).docx
+Exponential Functions Word Problems 1.docx
+IMG_0619.HEIC
+IMG_0620.HEIC
+IMG_0621.HEIC
+IMG_0707 2.HEIC
+IMG_0707.HEIC
+IMG_0964.HEIC
+IMG_0964.jpg
+IMG_0965 (1).jpg
+IMG_0965.HEIC
+IMG_0965.jpg
+IMG_1137.HEIC
+IMG_1680.jpeg
+IMG_6373.HEIC
+Jim Crow Letter.docx
+Kisat_princeton_0181D_14057 (1).pdf
+Kisat_princeton_0181D_14057.pdf
+Lesson 1 InverseFunctionsActivityDigitalandPrint-1.pdf
+MyProgram.java
+NA Copy of Othello Seminar_INT.docx
+NA Copy of Othello Seminar_INT.pdf
+NA Quote Anylasis (1).docx
+NA Quote Anylasis (2).docx
+NA Quote Anylasis.docx
+Nehemiah Abraha Transcript (1).pdf
+Nehemiah Abraha Transcript (2).pdf
+Nehemiah Abraha Transcript (3).pdf
+Nehemiah Abraha Transcript Q3 (1).pdf
+Nehemiah Abraha Transcript Q3 (2).pdf
+Nehemiah Abraha Transcript Q3.pdf
+Nehemiah Abraha Transcript.pdf
+Nehemiah-Abraha-FlowCV-Resume-20240319.pdf
+Nehemiah-Abraha-FlowCV-Resume-20240611.pdf
+PictureLab
+PictureLab.zip
+PigBlue.jpg
+PokemonBATTLE.java
+Robotics - Robocode scoring.pdf
+Screen Recording 2024-04-01 at 5.00.14 PM.mov
+Screen Recording 2024-04-01 at 5.00.14 PM.zip
+Screenshot 2024-01-23 at 9.39.33 AM (1).png
+Screenshot 2024-01-23 at 9.39.33 AM.png
+Screenshot 2024-09-04 at 12.53.18 PM.png
+UglyAvocado.jpg
+VSCode-darwin-universal.zip
+Visual Studio Code.app
+beach_with_hidden_image.png
+bluePiggyBank.jpg
+cdls_quiz
+cdls_quiz.zip
+equations and inequalities review sheet.doc
+image-0f0f2834-0af5-4259-91ff-11a67e74d523.png
+images (1).jpg
+images.jpeg
+images.jpg
+images.png
+invite.ics
+study guide.pdf
+summer key 2019.pdf
+~$ Quote Anylasis (2).docx
+1003223@1003223-student-HXJKFBRB265D Downloads % ls
+1712928735.6903691.jpg
+2021-22-local-and-regional-schools (3).xlsx
+5BA64E39-8C11-4510-AE23-17ACEBA34EBE.JPG
+725EBCB8-2D22-4F72-95C2-E3DE672764AF.JPG
+79DF6C8F-CB2F-45CD-A351-8753EB1F4852.jpeg
+87BBD529-A4F8-491C-889E-8A6235346C98.jpeg
+AP Macro 2016.pdf
+AP Macro 2017.pdf
+AP Micro 2017.pdf
+AP Micro 2018.pdf
+AP 宏观经济学 2019.pdf
+AP 微观经济学 2019.pdf
+Ambassador Academy Learning Modules Instructions (1).pdf
+AvocadoResized.jpg
+Barron's AP Econ Cover.png
+BluePigBankresized.jpg
+Book Work-1.pdf
+C7A0B9F8-E82E-4248-920D-867CF5129BA8.JPG
+CamScanner 02-19-2024 23.09.pdf
+Chatbot Lab _ CodeHS.html
+Chatbot Lab _ CodeHS_files
+Chatbot.java
+ChatbotRunner.java
+ChillAvocadoOnBed.jpg
+Copy of Lord of the Files Tracker (1).pptx
+Copy of Lord of the Files Tracker.pptx
+Day 1 input.txt
+E0A85FDF-6439-467D-826E-880C37126D51.jpeg
+Exponential Functions Word Problems 1 (1).docx
+Exponential Functions Word Problems 1.docx
+IMG_0619.HEIC
+IMG_0620.HEIC
+IMG_0621.HEIC
+IMG_0707 2.HEIC
+IMG_0707.HEIC
+IMG_0964.HEIC
+IMG_0964.jpg
+IMG_0965 (1).jpg
+IMG_0965.HEIC
+IMG_0965.jpg
+IMG_1137.HEIC
+IMG_1680.jpeg
+IMG_6373.HEIC
+Jim Crow Letter.docx
+Kisat_princeton_0181D_14057 (1).pdf
+Kisat_princeton_0181D_14057.pdf
+Lesson 1 InverseFunctionsActivityDigitalandPrint-1.pdf
+MyProgram.java
+NA Copy of Othello Seminar_INT.docx
+NA Copy of Othello Seminar_INT.pdf
+NA Quote Anylasis (1).docx
+NA Quote Anylasis (2).docx
+NA Quote Anylasis.docx
+Nehemiah Abraha Transcript (1).pdf
+Nehemiah Abraha Transcript (2).pdf
+Nehemiah Abraha Transcript (3).pdf
+Nehemiah Abraha Transcript Q3 (1).pdf
+Nehemiah Abraha Transcript Q3 (2).pdf
+Nehemiah Abraha Transcript Q3.pdf
+Nehemiah Abraha Transcript.pdf
+Nehemiah-Abraha-FlowCV-Resume-20240319.pdf
+Nehemiah-Abraha-FlowCV-Resume-20240611.pdf
+PictureLab
+PictureLab.zip
+PigBlue.jpg
+PokemonBATTLE.java
+Robotics - Robocode scoring.pdf
+Screen Recording 2024-04-01 at 5.00.14 PM.mov
+Screen Recording 2024-04-01 at 5.00.14 PM.zip
+Screenshot 2024-01-23 at 9.39.33 AM (1).png
+Screenshot 2024-01-23 at 9.39.33 AM.png
+Screenshot 2024-09-04 at 12.53.18 PM.png
+UglyAvocado.jpg
+VSCode-darwin-universal.zip
+Visual Studio Code.app
+beach_with_hidden_image.png
+bluePiggyBank.jpg
+cdls_quiz
+cdls_quiz.zip
+equations and inequalities review sheet.doc
+image-0f0f2834-0af5-4259-91ff-11a67e74d523.png
+images (1).jpg
+images.jpeg
+images.jpg
+images.png
+invite.ics
+study guide.pdf
+summer key 2019.pdf
+~$ Quote Anylasis (2).docx
+1003223@1003223-student-HXJKFBRB265D Downloads % l
+zsh: command not found: l
+1003223@1003223-student-HXJKFBRB265D Downloads % clear
+
+1003223@1003223-student-HXJKFBRB265D Downloads % cd
+1003223@1003223-student-HXJKFBRB265D ~ % cd
+1003223@1003223-student-HXJKFBRB265D ~ % ls
+Desktop				Photo on 4-29-24 at 1.07 PM.jpg
+Documents			Photo on 4-29-24 at 1.10 PM.jpg
+Downloads			Pictures
+Library				Public
+Movies				js-code basics
+Music
+1003223@1003223-student-HXJKFBRB265D ~ % mkdr
+zsh: command not found: mkdr
+1003223@1003223-student-HXJKFBRB265D ~ % mkdr happy
+zsh: command not found: mkdr
+1003223@1003223-student-HXJKFBRB265D ~ % mkdir happy
+1003223@1003223-student-HXJKFBRB265D ~ % ls
+Desktop				Photo on 4-29-24 at 1.07 PM.jpg
+Documents			Photo on 4-29-24 at 1.10 PM.jpg
+Downloads			Pictures
+Library				Public
+Movies				happy
+Music				js-code basics
+1003223@1003223-student-HXJKFBRB265D ~ % cd
+1003223@1003223-student-HXJKFBRB265D ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1003223@1003223-student-HXJKFBRB265D ~ % date
+Mon Sep  9 11:40:42 EDT 2024
+1003223@1003223-student-HXJKFBRB265D ~ % ls
+Desktop				Photo on 4-29-24 at 1.07 PM.jpg
+Documents			Photo on 4-29-24 at 1.10 PM.jpg
+Downloads			Pictures
+Library				Public
+Movies				happy
+Music				js-code basics
+1003223@1003223-student-HXJKFBRB265D ~ % Desktop
+zsh: command not found: Desktop
+1003223@1003223-student-HXJKFBRB265D ~ % ls
+Desktop				Photo on 4-29-24 at 1.07 PM.jpg
+Documents			Photo on 4-29-24 at 1.10 PM.jpg
+Downloads			Pictures
+Library				Public
+Movies				happy
+Music				js-code basics
+1003223@1003223-student-HXJKFBRB265D ~ % cd Dekstop
+cd: no such file or directory: Dekstop
+1003223@1003223-student-HXJKFBRB265D ~ % cd Desktop
+1003223@1003223-student-HXJKFBRB265D Desktop % mkdir quiz
+1003223@1003223-student-HXJKFBRB265D Desktop % ls
+Nehemiah Abraha Transcript Q3.pdf		Screenshot 2024-08-28 at 11.07.03 PM.png	Screenshot 2024-09-06 at 1.36.54 PM.png		terminal_
+Screenshot 2024-06-06 at 9.00.53 AM.png		Screenshot 2024-09-03 at 6.48.55 PM.png		practice					terminal_practice
+Screenshot 2024-08-26 at 5.13.41 PM.png		Screenshot 2024-09-04 at 12.53.18 PM.png	quiz
+Screenshot 2024-08-26 at 9.39.22 AM.png		Screenshot 2024-09-05 at 5.38.12 PM.png		robocode
+1003223@1003223-student-HXJKFBRB265D Desktop % cd quiz
+1003223@1003223-student-HXJKFBRB265D quiz % mkdir move_me.txt
+1003223@1003223-student-HXJKFBRB265D quiz % ls
+move_me.txt
+1003223@1003223-student-HXJKFBRB265D quiz % mkdir copy_me.txt
+1003223@1003223-student-HXJKFBRB265D quiz % ls
+copy_me.txt	move_me.txt
+1003223@1003223-student-HXJKFBRB265D quiz % mkdir destination
+1003223@1003223-student-HXJKFBRB265D quiz % ls
+copy_me.txt	destination	move_me.txt
+1003223@1003223-student-HXJKFBRB265D quiz % mv move_me.txt destination
+1003223@1003223-student-HXJKFBRB265D quiz % cp copy_me.txt copy_you.text
+cp: copy_me.txt is a directory (not copied).
+1003223@1003223-student-HXJKFBRB265D quiz % cp copy_me destination
+cp: copy_me: No such file or directory
+1003223@1003223-student-HXJKFBRB265D quiz % ls
+copy_me.txt	destination
+1003223@1003223-student-HXJKFBRB265D quiz % cd copy_me.txt
+1003223@1003223-student-HXJKFBRB265D copy_me.txt % cp copy_me.txt
+usage: cp [-R [-H | -L | -P]] [-fi | -n] [-aclpsvXx] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-aclpsvXx] source_file ... target_directory
+1003223@1003223-student-HXJKFBRB265D copy_me.txt % cp copy_me.txt copy_you.txt
+cp: copy_me.txt: No such file or directory
+1003223@1003223-student-HXJKFBRB265D copy_me.txt % ls
+1003223@1003223-student-HXJKFBRB265D copy_me.txt % cd ..
+1003223@1003223-student-HXJKFBRB265D quiz % ls
+copy_me.txt	destination
+1003223@1003223-student-HXJKFBRB265D quiz % mv copy_me.txt destination
+1003223@1003223-student-HXJKFBRB265D quiz % rm copy_me.txt
+rm: copy_me.txt: No such file or directory
+1003223@1003223-student-HXJKFBRB265D quiz % ls
+destination
+1003223@1003223-student-HXJKFBRB265D quiz % cd destination
+1003223@1003223-student-HXJKFBRB265D destination % ls 
+copy_me.txt	move_me.txt
+1003223@1003223-student-HXJKFBRB265D destination % rm copy_me.txt
+rm: copy_me.txt: is a directory
+1003223@1003223-student-HXJKFBRB265D destination % ls
+copy_me.txt	move_me.txt
+1003223@1003223-student-HXJKFBRB265D destination % cd copy_me.txt
+1003223@1003223-student-HXJKFBRB265D copy_me.txt % rm copy_me.txt
+rm: copy_me.txt: No such file or directory
+1003223@1003223-student-HXJKFBRB265D copy_me.txt % rv copy_me.txt
+zsh: command not found: rv
+1003223@1003223-student-HXJKFBRB265D copy_me.txt % cd ..
+1003223@1003223-student-HXJKFBRB265D destination % ls
+copy_me.txt	move_me.txt
+1003223@1003223-student-HXJKFBRB265D destination % rm copy_me.txt
+rm: copy_me.txt: is a directory
+1003223@1003223-student-HXJKFBRB265D destination % rmv copy_me.txt
+zsh: command not found: rmv
+1003223@1003223-student-HXJKFBRB265D destination % cd ..
+1003223@1003223-student-HXJKFBRB265D quiz % ls
+destination
+1003223@1003223-student-HXJKFBRB265D quiz % rm destination
+rm: destination: is a directory
+1003223@1003223-student-HXJKFBRB265D quiz % date
+Mon Sep  9 11:50:08 EDT 2024
+1003223@1003223-student-HXJKFBRB265D quiz % 
