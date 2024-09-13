@@ -6,7 +6,11 @@ In My Journal I will write about:
 * Some other things.
 
 
+# I will include some of my tech projects:
 
+- Robot projects
+- Websites
+- My portfolio
 
 
 
