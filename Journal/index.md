@@ -17,3 +17,7 @@ In My Journal I will write about:
 # Here's my Journal Entry
 
 - [My Journey learning the terminal](terminal.md)
+
+ [My first journal entry](entries/01_Intro.md)
+
+
