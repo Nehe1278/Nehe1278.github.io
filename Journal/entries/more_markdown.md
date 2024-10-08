@@ -24,3 +24,15 @@ blah blah blah
 [this is the link that will display my objectives](www.example.com)
 [This is the textx tha will be displayed from that link](https://kidszoo.org/wp-content/uploads/2023/09/swamp-monkey_intern-alyssa-3-scaled.jpg)
 
+## My favorite cartoon cats
+|Name     | Facts         |
+| -----   | --------      |
+|Tom      | Chases Jerry  |
+|Garfield | Likes Lasagna |
+|Meowth   | That's right! |
+
+
+
+
+
+ 
