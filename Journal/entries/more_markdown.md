@@ -34,5 +34,5 @@ blah blah blah
 
 
 
-* [Here is the link containing my math notes.](more_markdown.html)
+* [Here is the link containing my math notes.](MathNotes)
  
