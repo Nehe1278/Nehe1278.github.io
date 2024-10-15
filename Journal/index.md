@@ -18,6 +18,6 @@ In My Journal I will write about:
 
 - [My Journey learning the terminal](terminal.md)
 
- [My first journal entry](entries/01_Intro.md)
+ [My first journal entry](more_markdown.md/01_Intro.md)
 
 
