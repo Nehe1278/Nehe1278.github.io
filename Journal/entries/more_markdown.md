@@ -54,8 +54,9 @@ $\lim_{x \to  +\infty} f(x) = \infty$
 Essentially this just says on a graph, that as x approaches the positive side of the x-axis and goes to the infinity, f(x) or y would be approaching infinity or be going up as well. Here's how it would look like in a graph:
 
 
+[This is the image of a cubic graph, where if you look at the positive portion of the graph you will see that f(x) appraoches infinity](https://files.mtstatic.com/site_4425/2460/0?Expires=1729119470&Signature=fZ6C2r-jyf0nMKh~7OwmM8B7g0-GT~x45Ueh24u3zMibF-T0D~44Nu3HzPSJCVWMmb~TFvcBI4s7~w1iEBh0SgclVfwwzHptgX6LWrJW~IRFL~~-Y00UtylkhhG4Lgyoz6fxUQF-eqeTX5bJ4F-74lz3D5MpbyKSUDhe4RbOxgo_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA)
 
-     
+      
 
 
 
