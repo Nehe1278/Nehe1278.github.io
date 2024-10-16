@@ -41,7 +41,9 @@ blah blah blah
 
 
 
-# Here are my math notes.
+
+
+# Here are my math notes. (Assignment Oct/15/2024)
 
 
 ## So far in my Math class we have been learing about limits, I will go over just some of the important things to know about limits.
@@ -56,7 +58,38 @@ Essentially this just says on a graph, that as x approaches the positive side of
 
 [This is the image of a cubic graph, where if you look at the positive portion of the graph you will see that f(x) appraoches infinity](https://files.mtstatic.com/site_4425/2460/0?Expires=1729119470&Signature=fZ6C2r-jyf0nMKh~7OwmM8B7g0-GT~x45Ueh24u3zMibF-T0D~44Nu3HzPSJCVWMmb~TFvcBI4s7~w1iEBh0SgclVfwwzHptgX6LWrJW~IRFL~~-Y00UtylkhhG4Lgyoz6fxUQF-eqeTX5bJ4F-74lz3D5MpbyKSUDhe4RbOxgo_&Key-Pair-Id=APKAJ5Y6AV4GI7A555NA)
 
-      
+
+- Form the photo of the graph you my wonder, if there is a limit statment for the x on the positive portion of the axis, is there a limit statment for the x on the negative portion of the x axis which goes down. Lucky for you there is. this is the limit statement:
+
+
+$\lim_{x \to -\infty} f(x) = -\infty$
+
+This essentially is just vice versa of previous statment, it just says as x approaches negative infinity along the negative portion of the x-axis, f(x) will deacrease or y will go down as shown in the cubic graph image.
+
+
+
+## Their is something you would want to know about limit statments.
+
+* Based off the degree and leading coefficient of a function, f(x) will vary.
+
+Here's table that will help you understand this.
+
+
+|$x^2$  | this graph would have both limit statements pointing all the way up (because th coefficient is 1, posistive)|
+|$-x^2$ | this graph would have both limit statements pointing down, because the leading coefficient is negative (-1) |
+|$x^2$  | this graph would have f(x) pointing in the opposite direction for both statements. Like the cubic graph     | 
+|$-x^3$ | This graph would have the function pointing the opposite direction of the limts which were of opposit sign  |
+
+
+
+* As you can see, here are some of the few statments that can have doffernet graphs based on certain factors of a function.
+
+- This is a little bit about limit statments.
+
+
+
+
+
 
 
 
