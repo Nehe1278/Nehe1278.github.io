@@ -34,5 +34,5 @@ blah blah blah
 
 
 
-* [Here is the link containing my math notes.](MathNotes)
+* [Here is the link containing my math notes.](MathNotes.html)
  
