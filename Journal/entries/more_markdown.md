@@ -44,9 +44,21 @@ blah blah blah
 # Here are my math notes.
 
 
+## So far in my Math class we have been learing about limits, I will go over just some of the important things to know about limits.
+
+- Firstly know how limit notation would normally like:
+
+\lim_{x \to  +\infty} f(x) = \infty
+
+
+Essentially this just says on a graph, that as x approaches the positive side of the x-axis and goes to the infinity, f(x) or y would be approaching infinity or be going up as well. Here's how it would look like in a graph:
 
 
 
-$\lim_{x \to 0}$
+     
+
+
+
+
 
 ~                              
