@@ -35,4 +35,18 @@ blah blah blah
 
 
 * [Here is the link containing my math notes.](more_markdown.html/MathNotes.html)
- 
+
+
+
+
+
+
+# Here are my math notes.
+
+
+
+
+
+$\lim_{x \to 0}$
+
+~                              
