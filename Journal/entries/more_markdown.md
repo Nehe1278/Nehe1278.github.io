@@ -48,7 +48,7 @@ blah blah blah
 
 - Firstly know how limit notation would normally like:
 
-\lim_{x \to  +\infty} f(x) = \infty
+$\lim_{x \to  +\infty} f(x) = \infty$
 
 
 Essentially this just says on a graph, that as x approaches the positive side of the x-axis and goes to the infinity, f(x) or y would be approaching infinity or be going up as well. Here's how it would look like in a graph:
