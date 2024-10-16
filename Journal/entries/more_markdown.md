@@ -74,7 +74,8 @@ This essentially is just vice versa of previous statment, it just says as x appr
 
 Here's table that will help you understand this.
 
-
+| func  |                                           Definition of Function                                            |
+| ----  |  ---------------------------------------------------------------------------------------------------------- |
 |$x^2$  | this graph would have both limit statements pointing all the way up (because th coefficient is 1, posistive)|
 |$-x^2$ | this graph would have both limit statements pointing down, because the leading coefficient is negative (-1) |
 |$x^2$  | this graph would have f(x) pointing in the opposite direction for both statements. Like the cubic graph     | 
