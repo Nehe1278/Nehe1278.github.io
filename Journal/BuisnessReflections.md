@@ -4,7 +4,7 @@
 
 # My Reflection On Creating My Mock Buisness Website (through WordPress)
 
-- Here are the 3 website that I studied throughout my process to gain a feel for the type of website I want to build
+- Here are the 3 website that I studied throiugh my process to gain a feel for the type of website I want to build
 
 
 |                Links To the Real World Buisnesses                 |
@@ -15,6 +15,6 @@
 
 
 
-One thing I noticed between all these businesses, was that they make their vision extremely clear, there is a certain degreee of urgency, 
 
 
+  
