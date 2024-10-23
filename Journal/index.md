@@ -21,3 +21,9 @@ In My Journal I will write about:
  [My first journal entry](entries/more_markdown.md)
 
 
+
+
+
+## Here is my mock Buisness website that I made.
+
+- [Tech Consults](BuisnessReflection)
