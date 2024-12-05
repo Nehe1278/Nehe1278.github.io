@@ -1,0 +1,20 @@
+body{
+   background-color:#f0f069;
+}
+
+header{
+    background: #fdffcd;
+}
+
+nav, li{
+     background: #ffebbb;
+}
+
+
+#children{
+      color:#ff00a0;
+}
+
+.time{
+   border:1px solid;
+}
