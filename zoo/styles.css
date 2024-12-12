@@ -1,0 +1,10 @@
+body {
+   background-color:rgb(242,201,196);	
+}
+header {
+   background-color:blue;
+}
+table, th, td{
+border:1px solid;
+border/collapse: collapse;
+}
