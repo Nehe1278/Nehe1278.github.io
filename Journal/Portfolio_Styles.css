@@ -3,8 +3,28 @@
 }
 
 nav {
-display:grid;
+   display:grid;
+   grid-template-columns: 3,1fr;
+   background-color: rgb(117, 167, 211);
+   padding: 10px;
 }
+
+nav ul {
+    list-style-type: none; /* I searched this up but this is to remove the bullet points */  
+    display: contents;
+    
+}
+
+nav ul li {
+    text-align: center; /* will center the text in each link */
+}
+
+nav ul li a {
+    font-family: 'Markazi Text' , serif;
+    font-weight: bold;
+    color: white;  
+} 
+
 
  body {
    font-family: Arial, sans-serif;
