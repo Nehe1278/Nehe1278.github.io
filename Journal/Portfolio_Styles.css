@@ -2,6 +2,9 @@
      text-align:center;
 }
 
+nav {
+display:grid;
+}
 
  body {
    font-family: Arial, sans-serif;
