@@ -1,0 +1,7 @@
+header {
+
+}
+
+body {
+  background: linear-gradient(to right, rgb(255, 224, 178), rgb(173, 216, 230));  /* Searched this up, linear gradient transitions the color (light orange to light blue */
+}
