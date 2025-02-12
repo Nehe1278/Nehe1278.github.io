@@ -1,19 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <title>Nehe's Ice Cream Form Page<title>
+   <title>Nehe's Ice Cream Form Page</title>
    <script src="js/init.js"></script>
-<head> 
+</head> 
 
 <body>
-   <h1>Welcome to the Ice Cream Party Form, you have been invited, please fill it out<h1> 
+   <h1>Welcome to the Ice Cream Party Form, you have been invited, please fill it out</h1> 
    <form action="https://httpbin.org/post" method="POST">
    
    <label for="email">What's your email address</label>
+   <br> 
+   <input type="email" id="email" name="email" placeholder="name@example.com">
    <br>
-   
-   <input type="email" id="email" name="email">
+
+   <label for="num">What is your phone number?</label>
+   <br>
+   <input type="tel" id="num" name="email" placeholder="123-456-7890">
+   <br>
+
+   <label for="people">What is the number of people you will be bringing (including you)?</label>
+   <br>
+   <input type="number" id="people" name="people">
+   <br>
+
+   <br>
+
+   <label for="enter">What is your favorite Ice Cream flavor?"</label>
+   <br>
+   <select id="enter" name="enter">
+   <option value="Vanilla">Vanilla</option>
+	 <option value="Chocolate">Chocolate</option>
+	 <option value="Peanut Butter">Peanut Butter</option>
+	 <option value="Cookie Dough">Cookie Dough</option>
+	 <option value="Oreo">Oreo</option>
+	 <option value="Caramel">Caramel</option>
+	 <option value="Mint">Mint</option>
+   </select>
+   <br>
+
+   <br>
+   <label for="enter">What toppings would you want?"</label>
+      <select id="enter" name="enter">
+  	 <option value="Sprinkles">Sprinkles</option>
+   	 <option value="Chocolate Chi[">Chocolate Chip</option>
+  	 <option value="Mini Peanut Butter Cups">Mini Peanut Butter Cups</option>
+  	 <option value="Gummy Worms">Gummy Worms</option>
+  	 <option value="Oreo Crumbws">Oreo Crumbes</option>
+  	 <option value="M&M's">M&M's</option>
+  	 <option value="Coconut Flake">Coconut Flakes</option>
+   </select>
+   <br>
 
 
-   <div 
-<body>
+
+
+  
+</form> 
+</body>
+</html>
