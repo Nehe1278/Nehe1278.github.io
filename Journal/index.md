@@ -27,3 +27,9 @@ In My Journal I will write about:
 ## Here is my mock Buisness website that I made.
 
 - [Tech Consults](BuisnessReflections.md)
+
+
+
+## This is one my more recent projects (2/28/25). Where I reflect on the procces of working on website in a group, using github, etc.
+
+- [OffThePike Reflections](OffThePike_reflection.md)
