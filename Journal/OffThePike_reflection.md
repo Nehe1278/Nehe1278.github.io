@@ -7,15 +7,15 @@ A short description of your form. Specifically, discuss the input types and the 
 A reflection on the development process - how sharing code with others went, how pulling and merging went, and how branch-based development (with pull requests) went.
 
 - Here is the link to the website I created: 
- [Link to OffThePike website](OffThePike/index.html)
+ [Link to OffThePike website](https://notabotdaniel.github.io/OffThePike/)
 - Here is the link to the corresponding repo:
  [Github project repo](https://github.com/NotABotDaniel/OffThePike)
 
 -here are the screenshots of the pages I wrote:
   
-   1.
+   1. ![This is the Contact Form](/image/Contact Us Form)
    
-   2.
+   2. ![This is the News and Events Page](/image/News&EventsPage)
   
 
 # Short description of my form:
