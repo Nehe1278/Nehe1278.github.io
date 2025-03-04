@@ -7,9 +7,9 @@ A short description of your form. Specifically, discuss the input types and the 
 A reflection on the development process - how sharing code with others went, how pulling and merging went, and how branch-based development (with pull requests) went.
 
 - Here is the link to the website I created: 
-
+ [Link to OffThePike website](../OffThePike/index.html)
 - Here is the link to the corresponding repo:
-
+ [Github project repo](https://github.com/NotABotDaniel/OffThePike)
 
 -here are the screenshots of the pages I wrote:
   
@@ -23,4 +23,5 @@ A reflection on the development process - how sharing code with others went, how
 
 - In terms of the method I used. I had used the post method to send the most updated user data that was taken in, to the server.
 
-# Honestly, in terms for the development process, it was alright for the most part. Except, there was this one time where I had gotten into a merge conflict because someone else had made shanges to my page and I hadnt seen them and then push without pulling. That became a persistent issue quicly, but advice within vim was telling me that I had to fix the working tree and said that I should run this command before my next pull: git config rebase false. Luckily this did help, and before my next pull, I was able to get everything up to date. 
+# Reflection: 
+-  Honestly, in terms for the development process, it was alright for the most part. Except, there was this one time where I had gotten into a merge conflict because someone else had made shanges to my page and I hadnt seen them and then push without pulling. That became a persistent issue quicly, but advice within vim was telling me that I had to fix the working tree and said that I should run this command before my next pull: git config rebase false. Luckily this did help, and before my next pull, I was able to get everything up to date. 
