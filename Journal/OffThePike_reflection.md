@@ -7,7 +7,7 @@ A short description of your form. Specifically, discuss the input types and the 
 A reflection on the development process - how sharing code with others went, how pulling and merging went, and how branch-based development (with pull requests) went.
 
 - Here is the link to the website I created: 
- [Link to OffThePike website](../OffThePike/index.html)
+ [Link to OffThePike website](OffThePike/index.html)
 - Here is the link to the corresponding repo:
  [Github project repo](https://github.com/NotABotDaniel/OffThePike)
 
