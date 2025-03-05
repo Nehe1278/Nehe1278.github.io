@@ -1,4 +1,4 @@
- My reflection working with a group to make a website for the Off The Pike resturant
+ reflection working with a group to make a website for the Off The Pike resturant
 
 A link to the website that you worked on
 A link to the corresponding repo
@@ -13,9 +13,9 @@ A reflection on the development process - how sharing code with others went, how
 
 -here are the screenshots of the pages I wrote:
   
-   1. ![This is the Contact Form](/image/Contact Us Form)
+   1. ![This is the Contact Form](../image/Contact Us Form)
    
-   2. ![This is the News and Events Page](/image/News&EventsPage)
+   2. ![This is the News and Events Page](../image/News&EventsPage)
   
 
 # Short description of my form:
