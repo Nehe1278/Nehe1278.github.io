@@ -13,7 +13,7 @@ A reflection on the development process - how sharing code with others went, how
 
 -here are the screenshots of the pages I wrote:
   
-   1. ![This is the Contact Form](../image/Contact Us Form.png)
+   1. ![This is the Contact Form](../image/ContactUs.png)
    
    2. ![This is the News and Events Page](../image/News&EventsPage.png)
   
