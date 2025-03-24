@@ -27,6 +27,12 @@ nav a {
    font-family: Arial, sans-serif;
 }
 
+
+.color-change:hover{
+  color: "white";
+}
+
+
 p {
    line-height: 1.6;
    margin-bottom: 1em; 
@@ -73,7 +79,7 @@ p {
   margin:1px;
   margin-top:15px;
  /* margin-left:725px;*/
-  border:5px solid;
+  border:10px solid;
   padding-top:2px;
   padding-left:15px;
   padding-right:5px;
