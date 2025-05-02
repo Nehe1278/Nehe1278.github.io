@@ -35,3 +35,9 @@ In My Journal I will write about:
 # This is one my more recent projects (2/28/25). Where I reflect on the procces of working on website in a group, using github, etc.
 
 - [OffThePike Reflections](OffThePike_reflection.md)
+
+
+# Here is my idea for a game that I will be working 
+
+- [Game Reflection](GameReflection.md)
+
