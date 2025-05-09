@@ -27,3 +27,34 @@ const ball = {
     height: 10,
     color: 'white'
 };
+
+// Here I am drawing the paddles
+function drawPaddle(player) {
+    ctx.fillStyle = player.color;
+    ctx.fillRect(player.x, player.y, player.width, player.height);    //This draws the rectangle in shape of a paddle.
+}
+
+// Function to draw ball
+function drawBall() {
+    ctx.fillStyle = ball.color; // sets the fill color to the balls color.
+    ctx.fillRect(ball.x, ball.y, ball.width, ball.height);    //this draws a small square.
+}
+
+// Function to draw the game layout
+function drawGame() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    // Draw background
+    ctx.fillStyle = "black";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);   //This basically fills the entire background of the game, making it dark, or black.
+
+
+    // Draw paddles and ball
+    drawPaddle(player1);
+    drawPaddle(player2);         //Here I am calling the function of the 2 players and the ball.
+    drawBall();
+}
+
+// Initial draw call
+drawGame();              // Here I am calling the function.
+
