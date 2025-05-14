@@ -26,7 +26,18 @@ const ball = {
     width: 10,
     height: 10,
     color: 'white'
+    dx: 3,   // This is the speed of the ball in the x direction (horizontally)
+    dy: 3    // This is the speed of the ball in the y direction (Vertically)
 };
+
+    //This essentially is going to keep the score tracking for the game, this is some basic stuff of the game.
+    let player1Score = 0;
+    let player2Socer = 0;  
+
+
+    //This is going to track key presses
+     const keys = {};
+
 
 // Here I am drawing the paddles
 function drawPaddle(player) {
@@ -55,6 +66,15 @@ function drawGame() {
     drawBall();
 }
 
-// Initial draw call
+
+// Here I basically draw the scores for the game
+    ctx.fillStyle = "white"; // changing the font color to white
+    ctx.font = "20px Arial"; // Defining the font size and size
+    ctx.fillText(player1Score, 50, 30); // This just draws player 1's score at position (50,30)
+    ctx.fillText(player2Score, canvas.width - 70, 30); // draws the second player score top the right side of the screen.
+
+
+
+   
 drawGame();              // Here I am calling the function.
 
