@@ -104,10 +104,29 @@ function movePaddles() {
     }
 
 
-
+// Function to move ball
 function moveBall(){
-     ball.x += ball.dx;
-     ball.y += ball.dy;
+     ball.x += ball.dx;      //moves balls horizontally
+     ball.y += ball.dy;   //moves ball vertically
+
+// if ball collides or goes into the top or botton walls
+     if(ball.y <= 0 || ball.y >= canvas.height - ball.height) {
+
+	ball.dy *= -1;  // direct the ball the opposite y direction making it bounce of the walls
+    }
+    
+// Ensures whether or not the ball hits either player 1 or player 2 paddle, if it does the ball is reversed 
+    if (
+       (ball.x <= player1.x + player1.width && ball.y >= player1.y && ball.y <= player1.height) ||
+       (ball.x + ball.width >= player2.x && ball.y >= player2.y && ball.y <= player2.y + player2.height) 
+   
+  )  {
+        ball.dx *= -1;  // reverse the direction of the ball
+     }
+
+
+// this looks at if
+
 
 
 
