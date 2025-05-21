@@ -125,12 +125,37 @@ function moveBall(){
      }
 
 
-// this looks at if
+// this looks at if ball moves either player paddle, which updates the score for the other player.
 
+    if(ball.x <= 0) {
+      player2Score++;
+      resetBall();
 
+   }
 
+   if (ball.x >= canvas.width) {
+       player1Score++;
+       resetBall();
 
+   }  
+ } 
+
+// This function just resets the ball in a different position just after scoring 
+
+   function resetBall() {
+      ball.x = canvas.width / 2 - 5;
+      ball.y = canvas.height / 2 - 5;
+      ball.dx = 3 * (Math.random() > 0.5 ? 1 : -1); // this just randomizes the direction of whereever the ball is going 
+      ball.dy = 3 * (Math.random() > 0.5 ? 1 : -1); 
 }
 
-} 
-drawGame();              // Here I am calling the function.
+
+  // This is the function calls the functions of the game state.
+   function updateGame() {
+       movePaddles();
+       moveBall();
+       drawGame();
+      requestAnimationFrame(updateGame); // make sure the game updates at the correct refresh rate, 60 frames per second.
+ }
+
+
