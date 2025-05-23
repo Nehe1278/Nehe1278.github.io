@@ -62,17 +62,17 @@ function drawGame() {
     ctx.fillStyle = "black";
     ctx.fillRect(0, 0, canvas.width, canvas.height);   //This basically fills the entire background of the game, making it dark, or black.
 
+  
+
+    //Here I am calling the function for the triange score holder, inside draw game
+     drawScoreTriangle();
+     
 
     // Draw paddles and ball
     drawPaddle(player1);
     drawPaddle(player2);         //Here I am calling the function of the 2 players and the ball.
     drawBall();
     
-    // Here I basically draw the scores for the game
-    ctx.fillStyle = "white"; // changing the font color to white
-    ctx.font = "20px Arial"; // Defining the font size and size
-    ctx.fillText(player1Score, 50, 30); // This just draws player 1's score at position (50,30), near the the top.
-    ctx.fillText(player2Score, canvas.width - 70, 30); // draws the second player score top the right side of the screen.
 
 
 }
@@ -142,6 +142,47 @@ function moveBall(){
 
    }  
  } 
+
+
+
+//Here I make a triangle shape to hold both the scores of player 1 and 2.
+ 
+ function drawScoreTriangle() {
+      ctx.beginPath();
+    
+    // Define triangle points (upside-down and attached to the top)
+    ctx.moveTo(canvas.width / 2, canvas.height * 0.05); // draws top center point of the triangle
+    ctx.lineTo(canvas.width * 0.1, canvas.height * 0.12); // draws the Left corner of the traingle
+    ctx.lineTo(canvas.width * 0.9, canvas.height * 0.12); // draws right corner of triangel
+    ctx.closePath();
+
+    // Fill Player 1's side with red
+    ctx.fillStyle = "red";
+    ctx.fill();
+    
+    ctx.beginPath();
+    ctx.moveTo(canvas.width / 2, canvas.height * 0.05); 
+    ctx.lineTo(canvas.width * 0.9, canvas.height * 0.12); 
+    ctx.lineTo(canvas.width / 2, canvas.height * 0.12);
+    ctx.closePath();
+
+    // Fill Player 2's side (right) with blue
+    ctx.fillStyle = "blue";
+    ctx.fill();
+
+    // Draw Player 1 Score (Left side in red section)
+    ctx.fillStyle = "white";
+    ctx.font = "20px Arial";
+    ctx.fillText(player1Score, canvas.width * 0.15, canvas.height * 0.09);
+
+    // Draw Player 2 Score (Right side in blue section)
+    ctx.fillText(player2Score, canvas.width * 0.75, canvas.height * 0.09);
+
+
+
+}  
+
+
 
 // This function just resets the ball in a different position just after scoring 
 
