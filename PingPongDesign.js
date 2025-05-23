@@ -187,11 +187,20 @@ function moveBall(){
 // This function just resets the ball in a different position just after scoring 
 
    function resetBall() {
-      ball.x = canvas.width / 2 - 5;
-      ball.y = canvas.height / 2 - 5;
-      ball.dx = 3 * (Math.random() > 0.5 ? 1 : -1); // this just randomizes the direction of whereever the ball is going 
-      ball.dy = 3 * (Math.random() > 0.5 ? 1 : -1); 
+
+
+     // This randomizes the starting position of the ball,
+    ball.x = Math.random() * (canvas.width - 100) + 50; // Keeps the ball away from approaching edges
+    ball.y = Math.random() * (canvas.height - 100) + 50; // Keeps the ball within a playable space
+
+    // this just randmozes the change in speed in any direction
+    ball.dx = (Math.random() * 4 + 2) * (Math.random() > 0.5 ? 1 : -1); // sets the speed of the ball between many random directions (2-6).
+    
+    ball.dy = (Math.random() * 4 + 2) * (Math.random() > 0.5 ? 1 : -1); // This is the same for the Y direction.
+
+
 }
+
 
 
   // This is the function calls the functions of the game state.
