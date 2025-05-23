@@ -8,7 +8,8 @@ const player1 = {
     y: 150,
     width: 10,
     height: 60,
-    color: 'red'
+    color: 'red',
+    speed : 5 
 };
 
 const player2 = {
@@ -16,7 +17,9 @@ const player2 = {
     y: 150,
     width: 10,
     height: 60,
-    color: 'blue'
+    color: 'blue',
+    speed : 5
+    
 };
 
 // Here I create the ball object. 
@@ -46,7 +49,7 @@ function drawPaddle(player) {
 }
 
 // Function to draw ball
-function drawBall() {
+function drawBall(){ 
     ctx.fillStyle = ball.color; // sets the fill color to the balls color.
     ctx.fillRect(ball.x, ball.y, ball.width, ball.height);    //this draws a small square.
 }
@@ -64,15 +67,15 @@ function drawGame() {
     drawPaddle(player1);
     drawPaddle(player2);         //Here I am calling the function of the 2 players and the ball.
     drawBall();
-
-
-
-// Here I basically draw the scores for the game
+    
+    // Here I basically draw the scores for the game
     ctx.fillStyle = "white"; // changing the font color to white
     ctx.font = "20px Arial"; // Defining the font size and size
     ctx.fillText(player1Score, 50, 30); // This just draws player 1's score at position (50,30), near the the top.
     ctx.fillText(player2Score, canvas.width - 70, 30); // draws the second player score top the right side of the screen.
 
+
+}
 
  //Here this is the importnat part of the game, I am creating a function to move the paddles bassed off of keys that have been pressed.
 
@@ -117,7 +120,7 @@ function moveBall(){
     
 // Ensures whether or not the ball hits either player 1 or player 2 paddle, if it does the ball is reversed 
     if (
-       (ball.x <= player1.x + player1.width && ball.y >= player1.y && ball.y <= player1.height) ||
+       (ball.x <= player1.x + player1.width && ball.y >= player1.y && ball.y <= player1.height + player1.y) ||
        (ball.x + ball.width >= player2.x && ball.y >= player2.y && ball.y <= player2.y + player2.height) 
    
   )  {
@@ -158,4 +161,14 @@ function moveBall(){
       requestAnimationFrame(updateGame); // make sure the game updates at the correct refresh rate, 60 frames per second.
  }
 
+ //This event listener is to detect when a key is pressed and validate it as true or false.
 
+document.addEventListener('keydown', (e) => {
+       keys[e.key] = true;
+});
+
+document.addEventListener('keyup', (e) => {
+       keys[e.key] = false;
+});
+
+updateGame();
