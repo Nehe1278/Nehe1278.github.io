@@ -1,18 +1,8 @@
-today in class we will take a quiz
+Hello My name is Nehemiah Abraha, I am currently a Junior and I am traversing through my journey growing my web development skills.
+In this repo you can find about 10 months work of project I have created, ranging from mock resturants websites, forms, and even a game.
 
-# Markdown
-
-after the quiz, we will learn Markdown
-
-
-## here are some things you can do with Markdown
-
-You can do all kinds of things
-
-* Headers
-* Smaller HEaders
-* Paragraphs
-* Lists
+Feel free to check out my work. 
 
 
-### asfada
+- This is a link to my website:
+- file:///Users/1003223/Desktop/website/index.html
